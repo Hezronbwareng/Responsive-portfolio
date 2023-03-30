@@ -25,9 +25,10 @@ To run this website locally, follow these steps:
 
 Clone the repository to your local machine.
 Open the index.html file in your web browser.
+The link to the website is https://cheery-pegasus-0d9e85.netlify.app/ you can check it out
 Contact
 
-If you have any questions or would like to get in touch, please feel free to send me a message through the contact form on my website.
+If you have any questions or would like to get in touch, please feel free to send me a message through the contact form on my website. You can also give me feedback and any suggestion.
 
 Credits
 
