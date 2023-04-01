@@ -103,3 +103,17 @@ for (let i = 0; i < flakes; i++) {
   document.body.appendChild(flake);
 }
 }
+
+// Download resume
+const cvButton = document.getElementById('cv');
+
+cvButton.addEventListener('click', function() {
+  const fileUrl = 'resume.pdf';
+  const fileName = 'resume.pdf';
+  const link = document.createElement('a');
+  link.href = fileUrl;
+  link.download = fileName;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+});
